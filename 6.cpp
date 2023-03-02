@@ -5,9 +5,9 @@ long int fibonacci(int n);
  main(){
 //Sequencia fibonacci 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55..
     int n;
-    printf ("Escolha a posicao: ");
+    cout << Escolha a posicao:;
     scanf("%d", &n);
-    printf("Posicao %d da sequencia de fibonnaci: %d", n, fibonacci(n));
+    cout << Posicao %d da sequencia de fibonnaci: %d", n, fibonacci(n);
 }
 
 long fibonacci(int n)
